@@ -1,1 +1,1 @@
-Seatbelt warning system made with Tinkercad.
+Seatbelt warning system simulated with Tinkercad.
